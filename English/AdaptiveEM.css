@@ -1,0 +1,473 @@
+
+@media screen and (max-width: 2300px){
+
+    #main1block{
+        width: 650px;
+        left: 34%;
+    }
+    #main2block{
+        width: 300px;
+        left: 53%;
+    }
+}
+
+@media screen and (max-width: 2050px){
+    #main{
+        margin-left: -150px;
+    }
+    #main1block{
+        width: 650px;
+        left: 30%;
+    }
+    #main2block{
+        width: 300px;
+        left: 53%;
+    }
+}
+
+@media screen and (max-width: 1700px){
+    #main1block{
+        width: 650px;
+        left: 23%;
+    }
+    #main2block{
+        width: 300px;
+        left: 53%;
+    }
+}
+
+@media screen and (max-width: 1300px){
+    #main1block{
+        width: 525px;
+        left: 27%;
+    }
+    #main2block{
+        width: 250px;
+    }
+    #thanos{
+        position: relative;
+        top: 80px;
+        left: -32px;
+    }
+    
+    #pthanosmain1{
+        position: absolute;
+        top: 110px;
+        left: 131px;
+        width: 372px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #arnold{
+        position: relative;
+        top: 170px;
+        left: -115px;
+    }
+    
+    #parnoldmain1{
+        position: absolute;
+        top: 230px;
+        left: 130px;
+        width: 140px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #ghows{
+        position: relative;
+        top: 250px;
+        left: -219px;
+    }
+    
+    #pghowsmain1{
+        position: absolute;
+        top: 310px;
+        left: 130px;
+        width: 310px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #Grood{
+        position: relative;
+        top: 320px;
+        left: -300px;
+    }
+    
+    #pGroodmain1{
+        position: absolute;
+        top: 386px;
+        left: 130px;
+        width: 120px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #download{
+        position: relative;
+        top: 400px;
+        left: -367px;
+    }
+    
+    #pdownloadmain1{
+        position: absolute;
+        top: 470px;
+        left: 130px;
+        width: 203px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+
+    #hsomemain1{
+        width: 460px;
+    }
+
+    #simplesentence {
+        left: 36px;
+        width: 410px;
+    }
+
+    #arrowrigt {
+        top: 615px;
+        left: 350px;
+        transform: rotate(90deg);
+    }
+
+    #poop{
+        top: 400px;
+        left: 110px;
+    }
+
+
+}
+
+@media screen and (max-width: 1200px){
+    #main1block{
+        width: 525px;
+        left: 27%;
+    }
+    #main2block{
+        width: 250px;
+    }
+}
+
+@media screen and (max-width: 1100px){
+    #main1block{
+        width: 525px;
+        left: 27%;
+    }
+    #main2block{
+        width: 250px;
+        left: 55%;
+    }
+    
+}
+
+@media screen and (max-width: 1000px){
+    #main1block{
+        width: 500px;
+        left: 27%;
+    }
+    #main2block{
+        width: 250px;
+    }
+    #thanos{
+        position: relative;
+        top: 60px;
+        left: -21px;
+    }
+    
+    #pthanosmain1{
+        position: absolute;
+        top: 80px;
+        left: 130px;
+        width: 330px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #arnold{
+        position: relative;
+        top: 140px;
+        left: -97px;
+    }
+    
+    #parnoldmain1{
+        position: absolute;
+        top: 205px;
+        left: 130px;
+        width: 140px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #ghows{
+        position: relative;
+        top: 230px;
+        left: -202px;
+    }
+    
+    #pghowsmain1{
+        position: absolute;
+        top: 297px;
+        left: 130px;
+        width: 310px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #Grood{
+        position: relative;
+        top: 310px;
+        left: -286px;
+    }
+    
+    #pGroodmain1{
+        position: absolute;
+        top: 386px;
+        left: 130px;
+        width: 120px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #download{
+        position: relative;
+        top: 390px;
+        left: -350px;
+    }
+    
+    #pdownloadmain1{
+        position: absolute;
+        top: 460px;
+        left: 130px;
+        width: 203px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+
+    #hsomemain1{
+        top: 400px;
+        left: 35px;
+        width: 420px;
+    }
+
+    #arrowrigt {
+        top: 645px;
+        left: 350px;
+        transform: rotate(90deg);
+    }
+
+    #poop{
+        top: 410px;
+        left: 120px;
+    }
+    
+}
+
+@media screen and (max-width: 900px){
+    #main1block{
+        width: 450px;
+        left: 27%;
+    }
+    #main2block{
+        width: 250px;
+    }
+
+    #thanos{
+        position: relative;
+        top: 60px;
+        left: 0px;
+    }
+    
+    #pthanosmain1{
+        position: absolute;
+        top: 80px;
+        left: 130px;
+        width: 300px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #arnold{
+        position: relative;
+        top: 140px;
+        left: -74px;
+    }
+    
+    #parnoldmain1{
+        position: absolute;
+        top: 205px;
+        left: 130px;
+        width: 140px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #ghows{
+        position: relative;
+        top: 230px;
+        left: -178px;
+    }
+    
+    #pghowsmain1{
+        position: absolute;
+        top: 297px;
+        left: 130px;
+        width: 310px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #Grood{
+        position: relative;
+        top: 310px;
+        left: -261px;
+    }
+    
+    #pGroodmain1{
+        position: absolute;
+        top: 386px;
+        left: 130px;
+        width: 120px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+    
+    #download{
+        position: relative;
+        top: 390px;
+        left: -325px;
+    }
+    
+    #pdownloadmain1{
+        position: absolute;
+        top: 460px;
+        left: 130px;
+        width: 203px;
+        font-family: "Silkscreen";
+        border-radius: 20px 20px 20px 0px;
+        background: transparent;
+        backdrop-filter: blur(15px);
+        border: 2px solid rgb(54, 71, 104);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+
+    #hsomemain1{
+        top: 400px;
+        left: 15px;
+        width: 420px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-height: 1200px){
+
+    #main{
+        top: -25px;
+    }
+
+    #navpla{
+        top: 5px;
+    }
+
+}
+
+@media screen and (max-height: 1000px){
+
+    #main{
+        top: -40px;
+    }
+
+    #navpla{
+        top: -10px;
+    }
+
+}

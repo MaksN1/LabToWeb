@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+body {
+    background: url(photo/dark-night-river-forest-minimal-art.jpg) no-repeat;
+    background-size: 3400px 1700px;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+header{
+    position: relative;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+}
+
+#main{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    left: 40%;
+    top: -15px;
+	margin-left: -100px;
+    margin-top: 50px;
+    color: white;
+    font-family: sans-serif;
+    transition: 1.2s;
+}
+
+#main:hover {
+    left: 39%;
+    top: -25px;
+    font-size: 35px;
+}
+
+#matable{
+    position: relative;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: sans-serif;
+    top: 30%;
+    left: 20%;
+}
+
+#navpla{
+    position: absolute;
+    left: 50%;
+	margin-left: -200px;
+    top: 15px;
+    text-align: center;
+    transition: 1.2s;
+}
+
+#atable{
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+nav ul > li{
+    float: left;
+    box-sizing: border-box;
+    list-style: none;
+    padding: 15px;
+    width: 150px;
+    margin: 2px;
+    border-radius: 40px;
+    border: 2px solid rgb(54, 71, 104);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#practical{
+    width: 150px;
+}
+
+#practicalnumb{
+    position: absolute;
+    left: 43px;
+    top: 40px;
+    width: 110px;
+    height: 50;
+    padding: 5px;
+    border-radius: 10px;
+    transition: 0.75s;
+    transform: translateY(-50px);
+    opacity: 0;
+}
+
+#laboratorynumb{
+    position: absolute;
+    left: 193px;
+    top: 40px;
+    width: 120px;
+    height: 53px;
+    padding: 5px;
+    border-radius: 10px;
+    transition: 0.75s;
+    transform: translateY(-50px);
+    opacity: 0;
+}
+
+#practicalnumb:hover{
+    opacity: 1;
+    transform: translateY(10px);
+}
+
+#laboratorynumb:hover{
+    opacity: 1;
+    transform: translateY(10px);
+}
+
+nav ul li ul li{
+    position: relative;
+    width: 100%;
+    margin: 2px;
+    padding: 10px;
+    border-radius: 50px;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border: 2px solid rgb(54, 71, 104);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#main-content{
+    
+}
+
+#main1block{
+    position: absolute;
+    top: 10%;
+    left: 33%;
+    margin-top: 0px;
+    margin-left: -188px;
+    z-index: 1;
+    width: 650px;
+    height: 900px;
+    background: transparent;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    transition: 1.2s;
+    border: 2px   solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#main2block{
+    top: 10%;
+    left: 50%;
+    margin-top: 0px;
+    margin-left: 80px;
+    position: absolute;
+    width: 300px;
+    height: 900px;
+    background: transparent;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    transition: 1.2s;
+    border: 2px   solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#hmain{
+    font-family: "Silkscreen";
+}
+
+#thanos{
+    position: relative;
+    top: 80px;
+    left: -88px;
+    transition: 1.2s;
+}
+
+#pthanosmain1{
+    position: absolute;
+    top: 110px;
+    left: 130px;
+    width: 440px;
+    transition: 1.2s;
+    font-family: "Silkscreen";
+    border-radius: 20px 20px 20px 0px;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border: 2px solid rgb(54, 71, 104);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#arnold{
+    position: relative;
+    top: 170px;
+    left: -165px;
+    transition: 1.2s;
+}
+
+#parnoldmain1{
+    position: absolute;
+    top: 230px;
+    left: 130px;
+    width: 140px;
+    transition: 1.2s;
+    font-family: "Silkscreen";
+    border-radius: 20px 20px 20px 0px;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border: 2px solid rgb(54, 71, 104);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#ghows{
+    position: relative;
+    top: 250px;
+    left: -270px;
+    transition: 1.2s;
+}
+
+#pghowsmain1{
+    position: absolute;
+    top: 310px;
+    left: 130px;
+    width: 310px;
+    transition: 1.2s;
+    font-family: "Silkscreen";
+    border-radius: 20px 20px 20px 0px;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border: 2px solid rgb(54, 71, 104);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#Grood{
+    position: relative;
+    top: 320px;
+    left: -347px;
+    transition: 1.2s;
+}
+
+#pGroodmain1{
+    position: absolute;
+    top: 386px;
+    left: 130px;
+    width: 120px;
+    transition: 1.2s;
+    font-family: "Silkscreen";
+    border-radius: 20px 20px 20px 0px;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border: 2px solid rgb(54, 71, 104);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#download{
+    position: relative;
+    top: 400px;
+    left: -410px;
+    transition: 1.2s;
+}
+
+#pdownloadmain1{
+    position: absolute;
+    top: 470px;
+    left: 130px;
+    width: 203px;
+    transition: 1.2s;
+    font-family: "Silkscreen";
+    border-radius: 20px 20px 20px 0px;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border: 2px solid rgb(54, 71, 104);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+#hsomemain1{
+    position: relative;
+    top: 400px;
+    left: 35px;
+    width: 555px;
+    font-size: 20px;
+    transition: 1.2s;
+    font-family: "Silkscreen";
+}
+
+#simplesentence {
+    position: relative;
+    top: 410px;
+    left: 60px;
+    width: 500px;
+    transition: 1.2s;
+    font-family: "Silkscreen";
+    text-align: left;
+}
+
+#arrowrigt {
+    position: absolute;
+    top: 610px;
+    left: 380px;
+    font-size: 50px;
+    transition: 1.2s;
+    font-family: "Silkscreen";
+    text-align: left;
+}
+
+#poop{
+    position: relative;
+    top: 340px;
+    left: 150px;
+    transition: 1.2s;
+}
